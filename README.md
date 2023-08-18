@@ -211,59 +211,7 @@ Explanation for the arguments:
 
 `--outputDir`: Specify an output directory.
 
-<details>
-<summary>
- <b>Deprecation logs</b>
-</summary>
 
-- The old `--noCropping` flag has been replaced with the 'CropPage' plugin in "preProcessors" of the template.json(see [samples](https://github.com/Udayraj123/OMRChecker/tree/master/samples)).
-- The old `--autoAlign` flag can now be toggled from config.json
-</details>
-
-<!-- #### Testing the code
-Datasets to test on :
-Low Quality Dataset(For CV Based methods)) (1.5 GB)
-Standard Quality Dataset(For ML Based methods) (3 GB)
-High Quality Dataset(For custom processing) (6 GB)
--->
-
-
-## FAQ
-
-<details>
-<summary>
-<b>Why is this software free?</b>
-</summary>
-
-This project was born out of a student-led organization called as [Technothlon](https://technothlon.techniche.org.in). It is a logic-based international school championship organized by students of IIT Guwahati. Being a non-profit organization, and after seeing it work fabulously at such a large scale we decided to share this tool with the world. The OMR checking processes still involves so much tediousness which we aim to reduce dramatically.
-
-We believe in the power of open source! Currently, OMRChecker is in an intermediate stage where only developers can use it. We hope to see it become more user-friendly as well as robust from exposure to different inputs from you all!
-
-[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
-</details>
-
-<details>
-<summary>
-<b>Can I use this code in my (public) work?</b>
-</summary>
-
-OMRChecker can be forked and modified. You are encouraged to play with it and we would love to see your own projects in action!
-
-The only requirement is **disclose usage** of this software in your (public) code.
-
-It is published under the [GPLv3 license](https://github.com/Udayraj123/OMRChecker/blob/master/LICENSE).
-
-</details>
-
-<details>
-<summary>
-<b>What are the ways to contribute?</b>
-</summary>
-
-
-
-</details>
 
 ## Credits
 
