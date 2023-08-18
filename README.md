@@ -261,15 +261,7 @@ It is published under the [GPLv3 license](https://github.com/Udayraj123/OMRCheck
 <b>What are the ways to contribute?</b>
 </summary>
 
-<!-- - Help OMRChecker reach more people by giving a star! The Goal is to reach top position for the [OMR Topic](https://github.com/topics/omr) -->
 
-- Join the developer community on [Discord](https://discord.gg/qFv2Vqf) to fix [issues](https://github.com/Udayraj123/OMRChecker/issues) with OMRChecker.
-
-- If this project saved you large costs on OMR Software licenses, or saved efforts to make one. Consider donating an amount of your choice(donate section).
-
-<!-- ![☕](https://miro.medium.com/fit/c/256/256/1*br7aoq_JVfxeg73x5tF_Sw.png) -->
-<!-- [![paypal.me](https://www.paypalobjects.com/en_GB/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Z5BNNK7AVFVH8&source=url) -->
-<!-- https://www.amazon.in/hz/wishlist/ls/3V0TDQBI3T8IL -->
 
 </details>
 
@@ -303,29 +295,3 @@ Here's a snapshot of the [Android OMR Helper App (archived)](https://github.com/
 	</a>
 </p>
 
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/Udayraj123/OMRChecker.svg)](https://starchart.cc/Udayraj123/OMRChecker)
-
-***
-<h2 align="center">Made with ❤️ by Awesome Contributors</h2>
-
-<a href="https://github.com/Udayraj123/OMRChecker/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Udayraj123/OMRChecker" />
-</a>
-
-***
-### License
-
-[![GitHub license](https://img.shields.io/github/license/Udayraj123/OMRChecker.svg)](https://github.com/Udayraj123/OMRChecker/blob/master/LICENSE)
-
-For more details see [LICENSE](https://github.com/Udayraj123/OMRChecker/blob/master/LICENSE).
-
-### Donate
-<a href="https://www.buymeacoffee.com/Udayraj123" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> [![paypal](https://www.paypalobjects.com/en_GB/i/btn/btn_donate_LG.gif)](https://www.paypal.me/Udayraj123/500)
-
-
-_Find OMRChecker on_ [**_Product Hunt_**](https://www.producthunt.com/posts/omr-checker/) **|** [**_Reddit_**](https://www.reddit.com/r/computervision/comments/ccbj6f/omrchecker_grade_exams_using_python_and_opencv/) **|** [**Discord**](https://discord.gg/qFv2Vqf) **|** [**Linkedin**](https://www.linkedin.com/pulse/open-source-talks-udayraj-udayraj-deshmukh/) **|** [**goodfirstissue.dev**](https://goodfirstissue.dev/language/python) **|** [**codepeak.tech**](https://www.codepeak.tech/) **|** [**fossoverflow.dev**](https://fossoverflow.dev/projects) **|** [**Interview on Console by CodeSee**](https://console.substack.com/p/console-140) **|** [**Open Source Hub**](https://opensourcehub.io/udayraj123/omrchecker)
-
- <!-- [***Hacker News***](https://news.ycombinator.com/item?id=20420602) **|** -->
- <!-- **|** [***Swyya***](https://www.swyya.com/projects/omrchecker) -->
