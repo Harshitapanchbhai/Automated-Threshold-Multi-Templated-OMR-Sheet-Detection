@@ -96,7 +96,7 @@ Command: <code>python3 -m pip install --user --upgrade pip</code>
 
 1. First, [create your own template.json](https://github.com/Udayraj123/OMRChecker/wiki/User-Guide).
 2. Configure the tuning parameters.
-3. Run OMRChecker with appropriate arguments (See full usage).
+3. Run OMRChecker with appropriate arguments .
 <!-- 4. Add answer key( TODO: add answer key/marking scheme guide)  -->
 
 
