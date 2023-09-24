@@ -1,9 +1,5 @@
 
 
- 
-
-
-
 To install python3 follow instructions [here](https://www.python.org/downloads/)
 
 To install pip - follow instructions [here](https://pip.pypa.io/en/stable/installation/)
